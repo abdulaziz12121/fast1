@@ -1,5 +1,4 @@
 fastapi[all]
-pickle
 pydantic  
 fastapi  
 uvicorn
