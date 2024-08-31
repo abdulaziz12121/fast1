@@ -1,1 +1,7 @@
 fastapi[all]
+pickle
+pydantic  
+fastapi  
+uvicorn
+joblib
+streamlit
