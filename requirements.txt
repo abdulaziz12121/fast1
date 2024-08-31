@@ -3,5 +3,4 @@ pydantic
 sklearn
 uvicorn
 joblib
-learn
 pandas
